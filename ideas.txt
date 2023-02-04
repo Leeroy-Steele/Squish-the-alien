@@ -1,0 +1,13 @@
+ideas for game:
+
+* obsticles
+* heads up display with time to next spawn and player health
+* Acid blood
+* baby health
+* alien / baby attack
+* saw item pickup
+* gun item pickup
+* ambient objects (fire engine lights, tumble weed)
+* Score
+
+* Way to win the game
